@@ -1,11 +1,11 @@
-# Sentiment Analysis
+ Sentiment Analysis
 
 This project performs sentiment analysis using machine learning and natural language processing. 
 The goal is to classify a given text as Positive, Negative, or Neutral.
 
 
 
-### 🔹 Step 1: Import the Dataset
+ 🔹 Step 1: Import the Dataset
 We begin by importing a dataset that contains text data along with their sentiment labels. 
 This dataset can be in CSV format and may include reviews, tweets, or comments.
 
